@@ -37,7 +37,7 @@ Wiki page: [M107](../../../../PAGES/M107.md)
 - **Words (OCR):** 56 in 42 lines: I+500 · 9.37 · 637 · 375 · 337 · 825 · 437 · 1650 · 875 · REF · 4HOLES · .25 DIA e CSk AT
 - **Title block:** (189, 10)–(381, 61) mm: TOLS · ARGLES WARD BECK · CLEAR ANobIZc Cate · MRW · MODULE · JAN.72 · WBS ExtRUSION · SEE · DWG N? Ci02-03-006/3 · FULD · 107-03-004
 
-Every curve, box, word and wire group: [1972 - 107-03-004 - MODULE BASE - DRN MRW (traced).json](../MECHANICAL/1972%20-%20107-03-004%20-%20MODULE%20BASE%20-%20DRN%20MRW%20(traced).json) (the CAD file: `1972 - 107-03-004 - MODULE BASE - DRN MRW (traced).dxf`).
+Every curve, box, word and wire group: [1972 - 107-03-004 - MODULE BASE - DRN MRW (traced).json](../MECHANICAL/1972%20-%20107-03-004%20-%20MODULE%20BASE%20-%20DRN%20MRW%20%28traced%29.json) (the CAD file: `1972 - 107-03-004 - MODULE BASE - DRN MRW (traced).dxf`).
 
 ## Full text
 
