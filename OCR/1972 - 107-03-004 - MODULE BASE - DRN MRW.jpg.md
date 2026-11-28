@@ -1,5 +1,5 @@
 # 1972 - 107-03-004 - MODULE BASE - DRN MRW.jpg
-Wiki page: [M107](../../../../PAGES/M107.md)
+Wiki page: [M107](../)
 
 
 - **Year:** 1972 (title block date)

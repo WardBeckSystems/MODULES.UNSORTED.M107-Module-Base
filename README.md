@@ -1,6 +1,6 @@
 # M107 Module Base · Unsorted
 
-Ward-Beck Systems M107, 1972|5. Wiki page: [M107 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M107.html)
+Ward-Beck Systems M107, 1972|5. Wiki page: [M107 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M107-Module-Base/)
 
 | Folder | What is in it | Files |
 |---|---|---|
